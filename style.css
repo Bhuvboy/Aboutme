@@ -2,8 +2,8 @@
 
 * {
   box-sizing: border-box;
-  margin: 1px;
-  padding: 1px;
+  margin: 0px;
+  padding: 0px;
   background-image: -moz-linear-gradient();
 }
 
